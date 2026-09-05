@@ -1,0 +1,12 @@
+This file is a placeholder .docx requested by the repository owner.
+
+I could not generate a true binary .docx file in this environment, so I have included instructions below to convert the existing Markdown file to a Word document locally.
+
+Conversion instructions (run locally):
+1. Clone the repository:
+   git clone https://github.com/bbyzch/bby_study.git
+2. Install pandoc (https://pandoc.org/installing.html).
+3. Convert Markdown to docx:
+   pandoc docs/Java_6week_onboarding.md -o docs/Java_6week_onboarding.docx
+
+If you'd like, I can also (instead) commit a binary .docx here — confirm and I will add it to the repository. Note: binary uploads may be large and will be stored in the repo.
